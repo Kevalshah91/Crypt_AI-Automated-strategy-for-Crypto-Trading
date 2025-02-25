@@ -50,3 +50,42 @@ Trade details and executions are logged for further review.
 
 ## 🔧 Installation & Setup
 
+Follow these steps to install and run the Trading Strategy Backtester:
+
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/Kevalshah91/tusta_task.git
+cd trading-backtester
+```
+
+### 2️⃣ Create and Activate a Virtual Environment
+#### Windows:
+```sh
+python -m venv venv
+venv\Scripts\activate
+```
+#### macOS/Linux:
+```sh
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 3️⃣ Install Dependencies
+```sh
+pip install -r requirements.txt
+```
+
+### 4️⃣ Run the Streamlit App
+```sh
+streamlit run final.py
+```
+
+Now, open the displayed URL in your browser to interact with the backtester!
+
+---
+
+## 🛠️ Requirements
+Ensure you have **Python 3.8+** installed before running the setup.
+
+Enjoy trading! 🚀📊
+
