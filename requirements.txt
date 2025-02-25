@@ -1,0 +1,9 @@
+flask
+ccxt 
+pandas 
+pandas-ta 
+numpy 
+pytz 
+matplotlib 
+streamlit 
+requests
