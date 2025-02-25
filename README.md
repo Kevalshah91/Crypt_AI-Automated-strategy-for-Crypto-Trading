@@ -89,3 +89,6 @@ Ensure you have **Python 3.8+** installed before running the setup.
 
 Enjoy trading! 🚀📊
 
+## 🚀 Contact 
+
+<a href="mailto:kevalshah091@gmail.com">your.email@example.com</a>
