@@ -91,4 +91,4 @@ Enjoy trading! 🚀📊
 
 ## 🚀 Contact 
 
-<a href="mailto:kevalshah091@gmail.com">your.email@example.com</a>
+<a href="mailto:kevalshah091@gmail.com">kevalshah091@gmail.com</a>
