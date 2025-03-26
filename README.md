@@ -12,6 +12,7 @@ A **Streamlit-based Trading Strategy Backtester** using **RSI (Relative Strength
 ---
 
 ## 📌 Strategy Overview
+
 ### 1️⃣ RSI-Based Strategy
 The **RSI strategy** takes trades based on RSI values:
 - **Buy** when RSI crosses above the lower threshold (e.g., 30)
@@ -33,6 +34,20 @@ The **MA strategy** takes trades based on price and moving averages:
 
 #### 📈 MA Graph Example
 ![MA Graph](images/MA_graph.png)
+
+---
+
+## 📐 High-Level Design (HLD)
+Below is the HLD diagram illustrating the core components and their interactions:
+
+![HLD Diagram](images/crypt.ai.jpg)
+
+---
+
+## 🌀 Workflow Overview
+This workflow diagram provides a visual representation of how data flows through the system:
+
+![Workflow Diagram](images/workflow.jpg)
 
 ---
 
@@ -89,6 +104,10 @@ Ensure you have **Python 3.8+** installed before running the setup.
 
 Enjoy trading! 🚀📊
 
-## 🚀 Contact 
+---
 
-<a href="mailto:kevalshah091@gmail.com">kevalshah091@gmail.com</a>
+## 📧 Contact
+For any inquiries or support, reach out to:
+
+[kevalshah091@gmail.com](mailto:kevalshah091@gmail.com)
+
